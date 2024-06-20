@@ -1,4 +1,4 @@
-## Usage (continued)
+
 
 1. **Adding a Bookmark**:
 
@@ -23,7 +23,7 @@
    - Go to the extension’s options page (right-click the Bookmarks Manager icon and select "Options").
    - Use the import feature to bring in bookmarks from other sources.
    - Use the export feature to save your bookmarks in different formats.
-
+--- to do -----
 5. **Syncing Across Devices**:
 
    - Set up cloud synchronization through the options page.
