@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Bookmarks Manager",
+    "version": "1.0",
+    "description": "A powerful bookmarks manager.",
+    "permissions": ["bookmarks", "storage", "tabs", "activeTab", "contextMenus"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        
+        "128": "images/icon128.png"
+      }
+    },
+    "options_page": "options.html"
+   
+  }
+  
